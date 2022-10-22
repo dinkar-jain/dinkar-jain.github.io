@@ -37,6 +37,11 @@
         "level": "95"
       },
       {
+        "name": "Tailwind",
+        "class": "devicon-tailwindcss-plain",
+        "level": "90"
+      },
+      {
         "name": "Python",
         "class": "devicon-python-plain",
         "level": "80"

@@ -11,13 +11,13 @@
   },
   "projects": [
     {
-      "title": "DID",
+      "title": "Ionio Quiz",
       "startDate": "2022",
-      "description": "Developing a solution for unique identity over the internet using the concept of SSI (Self Sovereign Identity) using Blockchain and using it to replace the traditional methods of verification. Frameworks used are Hyperledger Indy, Hyperledger Aries and Hyperledger Ursa.",
+      "description": "This is a completly Responsive MCQ Quiz Application developed to overcome the time consuming problem of manual system. It includes features like users validation, password hashing, jwt token authentication and much more...",
       "images": [
-        "images/portfolio/did/p1.jpg"
+        "images/portfolio/ionio-quiz/p1.jpg"
       ],
-      "url": "https://did.rcmoocs.in/",
+      "url": "https://ionioquiz.herokuapp.com/",
       "technologies": [
         {
           "class": "devicon-mongodb-plain",
@@ -30,6 +30,10 @@
         {
           "class": "devicon-react-original",
           "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind"
         },
         {
           "class": "devicon-nodejs-plain",
