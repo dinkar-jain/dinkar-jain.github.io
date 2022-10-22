@@ -1,0 +1,127 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Dinkar Jain, a passionate full-stack engineer with 2+ years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end tools. I am currently engaged in the process of developing Blockchain and SSI based solutions too. I would love to connect with you and help you in any way possible 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Ionio Quiz",
+      "startDate": "2022",
+      "description": "This is a completly Responsive MCQ Quiz Application developed to overcome the time consuming problem of manual system. It includes features like users validation, password hashing, jwt token authentication and much more...",
+      "images": [
+        "images/portfolio/ionio-quiz/p1.jpg"
+      ],
+      "url": "https://ionioquiz.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "EaseShop",
+      "startDate": "2021",
+      "description": "This is a completly Responsive E-commerce website, made with the purpose of helping businesses have an online presence and to increase their sales. It includes features like product filtering, input validation, password hashing and much more...",
+      "images": [
+        "images/portfolio/easeshop/p1.jpg"
+      ],
+      "url": "https://easeshop.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Web Template",
+      "startDate": "2021",
+      "description": "This is a complete Responsive Website Frontend Template for helping businesses have an online presence. It includes buttons which are fully functioning and features like Validating Users Input and much more...",
+      "images": [
+        "images/portfolio/web-template/p1.png"
+      ],
+      "url": "https://dinkar-jain.github.io/Responsive-Website-Design/index.html",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ramanujan College",
+      "title": "Blockchain Intern",
+      "years": "7.2022 - present",
+      "mainTech": [
+        "Hyperleder Indy"
+      ],
+      "technologies": [
+        "JavaScript",
+        "REST API",
+        "React",
+        "Node.js",
+        "Bootstrap",
+        "MongoDB",
+        "Docker"
+      ]
+    },
+    {
+      "company": "Gurugram Police Cyber Cell",
+      "title": "Cyber Intern",
+      "years": "06.2020 - 07.2020",
+      "mainTech": [
+        "Fraud Detection"
+      ],
+      "technologies": [
+        "Research",
+        "Communication",
+        "Reporting"
+      ]
+    }
+  ]
+}

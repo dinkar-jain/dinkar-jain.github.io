@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "name": "Dinkar Jain",
+    "titles": [
+      "Full Stack Developer",
+      "Blockchain Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/dinkar-jain",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "resume",
+        "url": "https://drive.google.com/file/d/1SiqkK-fGIBVOardlLDGde1tK_V82qaU8/view?usp=sharing",
+        "class": "fas fa-file-alt"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/dinkar-jain",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.png"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Tailwind",
+        "class": "devicon-tailwindcss-plain",
+        "level": "90"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "80"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "65"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
