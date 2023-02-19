@@ -11,13 +11,40 @@
   },
   "projects": [
     {
-      "title": "Ionio Quiz",
+      "title": "EaseShop",
+      "startDate": "2022",
+      "description": "This is a completly Responsive E-commerce website, made with the purpose of helping businesses have an online presence and to increase their sales. It includes features like product filtering, input validation, password hashing and much more...",
+      "images": [
+        "images/portfolio/easeshop/p1.jpg"
+      ],
+      "url": "https://easeshop.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Quizopia",
       "startDate": "2022",
       "description": "This is a completly Responsive MCQ Quiz Application developed to overcome the time consuming problem of manual system. It includes features like users validation, password hashing, jwt token authentication and much more...",
       "images": [
         "images/portfolio/ionio-quiz/p1.jpg"
       ],
-      "url": "https://ionioquiz.herokuapp.com/",
+      "url": "https://quizopia.netlify.app/",
       "technologies": [
         {
           "class": "devicon-mongodb-plain",
@@ -34,33 +61,6 @@
         {
           "class": "devicon-tailwindcss-plain",
           "name": "Tailwind"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
-        }
-      ]
-    },
-    {
-      "title": "EaseShop",
-      "startDate": "2021",
-      "description": "This is a completly Responsive E-commerce website, made with the purpose of helping businesses have an online presence and to increase their sales. It includes features like product filtering, input validation, password hashing and much more...",
-      "images": [
-        "images/portfolio/easeshop/p1.jpg"
-      ],
-      "url": "https://easeshop.herokuapp.com/",
-      "technologies": [
-        {
-          "class": "devicon-mongodb-plain",
-          "name": "MongoDB"
-        },
-        {
-          "class": "devicon-express-original",
-          "name": "Express"
-        },
-        {
-          "class": "devicon-react-original",
-          "name": "React"
         },
         {
           "class": "devicon-nodejs-plain",
@@ -93,6 +93,23 @@
     }
   ],
   "experience": [
+    {
+      "company": "Ionio LLC",
+      "title": "Full-Stack Developer",
+      "years": "10.2022 - present",
+      "mainTech": [
+        "MERN Stack"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Tailwind",
+        "Prisma",
+        "Docker"
+      ]
+    },
     {
       "company": "Ramanujan College",
       "title": "Blockchain Intern",
