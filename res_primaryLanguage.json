@@ -94,9 +94,43 @@
   ],
   "experience": [
     {
+      "company": "Ionio LLC",
+      "title": "Full-Stack Developer",
+      "years": "10.2022 - present",
+      "mainTech": [
+        "MERN Stack"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Tailwind",
+        "Prisma",
+        "Docker"
+      ]
+    },
+    {
+      "company": "The Linux Foundation",
+      "title": "Blockchain Intern",
+      "years": "6.2023 - 11.2023",
+      "mainTech": [
+        "Solidity"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Tailwind",
+        "Prisma",
+        "Docker"
+      ]
+    },
+    {
       "company": "Ramanujan College",
       "title": "Blockchain Intern",
-      "years": "7.2022 - present",
+      "years": "7.2022 - 4.2023",
       "mainTech": [
         "Hyperleder Indy"
       ],
